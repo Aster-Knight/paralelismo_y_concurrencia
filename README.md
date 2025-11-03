@@ -2,8 +2,6 @@
 
 Este proyecto demuestra y compara diferentes técnicas de optimización (concurrencia y paralelismo) para un pipeline de procesamiento de imágenes de Pokémon. El objetivo es mostrar cómo la elección de la estrategia correcta puede reducir drásticamente el tiempo de ejecución de tareas comunes de E/S (I/O-Bound) y de uso intensivo de CPU (CPU-Bound).
 
- ![Pikachu Art](https://raw.githubusercontent.com/alejandro-ao/pikachu-readme/main/pikachu.png)
-
 ---
 
 ## Estructura del Proyecto

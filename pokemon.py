@@ -4,7 +4,7 @@ import requests
 import multiprocessing as mp
 from PIL import Image, ImageOps, ImageFilter, ImageEnhance
 from tqdm import tqdm
-from pika_banner import print_pikachu  # Asegúrate de tener pika_banner.py
+from pika_banner import print_pikachu
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor, as_completed
 
 N_POKEMON = 150

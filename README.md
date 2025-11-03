@@ -114,4 +114,3 @@ La optimización de un pipeline de datos requiere identificar la naturaleza de s
 -   **Para tareas limitadas por la CPU (CPU-Bound)**, como el procesamiento de imágenes, cálculos complejos o machine learning, el **paralelismo con procesos** es la única forma de utilizar múltiples núcleos de CPU y obtener una aceleración significativa en Python.
 
 La combinación secuencial de ambas técnicas, como se demuestra en la **Estrategia 5**, proporciona el mejor rendimiento al especializar cada fase del pipeline con la herramienta de optimización correcta.
-```

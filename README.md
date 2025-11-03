@@ -32,7 +32,7 @@ Para ejecutar las pruebas de este proyecto, primero clona el repositorio y luego
     source venv/Scripts/activate
     ```
 
-2.  **Creo un archivo `requirements.txt`** con el siguiente contenido:
+2.  **Se creó un archivo `requirements.txt`** con el siguiente contenido:
 
     ```txt
     requests

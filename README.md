@@ -6,7 +6,7 @@ Este proyecto demuestra y compara diferentes técnicas de optimización (concurr
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 .
@@ -17,11 +17,7 @@ Este proyecto demuestra y compara diferentes técnicas de optimización (concurr
 │   ├── chunk.png
 │   └── both.png
 ├── pika_banner.py
-├── pipeline_1_secuencial.py
-├── pipeline_2_concurrente.py
-├── pipeline_3_paralelo.py
-├── pipeline_4_chunks.py
-├── pipeline_5_optimo.py
+├── pokemon.py
 ├── README.md
 └── requirements.txt
 ```
